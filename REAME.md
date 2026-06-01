@@ -47,7 +47,7 @@ Make sure you have a C++ compiler and `make` installed.
 
 To compile the project, run:
 
-```bash
+
 make
 ```
 
