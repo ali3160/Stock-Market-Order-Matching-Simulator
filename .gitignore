@@ -1,0 +1,17 @@
+# Compiled C++ files
+*.o
+*.out
+main
+main.exe
+
+# Archives
+*.zip
+
+# Generated output files
+output*.txt
+
+# Editor/system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
