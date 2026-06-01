@@ -49,22 +49,15 @@ To compile the project, run:
 
 
 make
-```
 
 This will create an executable file called:
 
-```bash
 main
-```
 
-To run the program, provide one of the input files as a command-line argument:
+To run the program, provide one of the input files  command-line argument:
 
-```bash
 ./main input1.txt
-```
 
-The program will process the orders from the input file and generate the corresponding output file, such as:
+The program will process the orders from the input file and generate the output file, such as:
 
-```text
 output1.txt
-```
